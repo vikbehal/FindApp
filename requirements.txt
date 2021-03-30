@@ -1,5 +1,5 @@
 voila
 fastai2>=0.0.5
-pil low<7
+pil low was removed <7
 packaging
 ipywidgets==7.5.1
